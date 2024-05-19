@@ -4,3 +4,4 @@ venv
 __pycache__
 tests\__pycache__
 utilities\__pycache__
+test_results
